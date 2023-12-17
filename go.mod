@@ -5,7 +5,6 @@ go 1.20
 require (
 	github.com/go-resty/resty/v2 v2.8.0
 	github.com/stretchr/testify v1.8.4
-	gopkg.in/resty.v1 v1.12.0
 )
 
 require (
